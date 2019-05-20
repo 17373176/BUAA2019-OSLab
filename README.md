@@ -1,5 +1,8 @@
-# BUAA2019-OSLab0
+# BUAA2019-OSLab1
+## printf编写
 ## linux、shell命令，vim操作
 
 ## 课上测试
-sed打印多行用;分隔
+gcc命令
+gcc -c -o t.o t.s
+.S生成.o文件
