@@ -1,2 +1,5 @@
-# BUAA2019-OSLab
-北京航空航天大学2019计算机学院MIPS操作系统课程实验
+# BUAA2019-OSLab0
+## linux、shell命令，vim操作
+
+## 课上测试
+sed打印多行用;分隔
