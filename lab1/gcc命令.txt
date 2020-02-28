@@ -1,0 +1,2 @@
+gcc -c -o t.o t.s
+.S生成.o文件
